@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(190, 172, 10);
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+#playbutton{
+    width: 2cm;
+    text-align: right;
+    align-items: center;
+    margin-left: 60%;
+}
+
+table {
+    border-spacing: 4pt;
+    text-align: center;
+    object-position: center;
+    width: 100%;
+}
+
+#l1{
+    background-color: rgb(226, 213, 92);
+}
+
+#l2{
+    background-color: rgb(228, 213, 127);
+}
+
+#c1{
+    width: 20%;
+}
+
+#c2{
+    width: 60%;
+}
+
+#adorocinema{
+    background-color: rgb(201, 13, 13);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 33pt;
+    padding: 1cm;
+    width: 60%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+#hobbit{
+    width: 50%;
+}
+
+#harry{
+    width: 50%;
+}
+
+#index{
+    color: white;
+    text-decoration: none;
+}
+
+#titanic{
+    width: 50%;
+}
+
+#ytlogo{
+    width: 50%;
+}
+
+h2{
+    size: 30pt;
+    text-align: left;
+    margin-left: 10pt;
+}
+
+h3, h5{
+    text-align: left;
+    margin-left: 10pt;
+}
+
+a:link{
+    color: rgb(201, 13, 13);;
+}
+a:visited{
+    color: rgb(201, 13, 13);;
+}
